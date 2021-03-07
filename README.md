@@ -1,2 +1,2 @@
-# Flutter-app-2
+# Basic-Flutter
 Learn Flutter from Nextflow
