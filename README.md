@@ -1,3 +1,2 @@
-# Basic-Flutter
-## Counter app
+# Counter app
 Learn Flutter from Nextflow
